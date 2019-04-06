@@ -2,7 +2,7 @@ import java.time.LocalDate;
 
 public class Digitale extends Romanzo {
 
-	enum Formati {
+	public enum Formati {
 		EPUB, MOBI, PDF, AWF
 	}
 
